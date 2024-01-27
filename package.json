@@ -1,8 +1,13 @@
 {
   "name": "git-aid",
   "displayName": "Git-Assist",
-  "description": "",
+  "publisher": "NamithaS",
+  "description": "An extension to help you learn Git and GitHub",
   "version": "0.0.1",
+  "repository": {
+		"url": "https://github.com/Namitha-KS/VS-Code-Extension-Typescript"
+	},
+	"icon": "logo.png",
   "engines": {
      "vscode": "^1.85.0"
   },
